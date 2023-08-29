@@ -1,6 +1,6 @@
 ---
 - name: Install Apache2 on Ubuntu
-  hosts: 172.16.0.202
+  hosts: 10.10.5.81
   become: yes
  
   tasks:
